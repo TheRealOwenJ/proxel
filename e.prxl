@@ -1,0 +1,29 @@
+init canvas 10 10 black 40 type video 1 loop
+
+frame 1 {
+2 2 white
+9 2 white
+2 8 white
+2 9 white
+3 9 white
+4 9 white
+5 9 white
+6 9 white
+7 9 white
+8 9 white
+9 9 white
+9 8 white
+}
+
+frame 2 {
+2 8 white
+2 9 white
+3 9 white
+4 9 white
+5 9 white
+6 9 white
+7 9 white
+8 9 white
+9 9 white
+9 8 white
+}
