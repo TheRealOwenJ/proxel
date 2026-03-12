@@ -1,3 +1,4 @@
+#Proxel by TheRealOwenJ
 require "gosu"
 
 class ProxelWindow < Gosu::Window
